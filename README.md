@@ -54,7 +54,7 @@ The Random Forest Model placed Big Mountain Resorts ideal ticket price at $94.22
 - Have 4-6 Runs closed each day to save on operations cost
 
 
-To improve their facilities, encourage higher ticket prices, and improve their resort’s overall apparel: 
+To improve their facilities, encourage higher ticket prices, and improve their resort’s overall appeal: 
 
 - Increase vertical drop (a highly price correlated feature) by 150 ft
 - Add one chair lift
